@@ -1,7 +1,7 @@
 package pl.rarry.scalatests
 
 /**
- * @author Maciej Jankowski <maciej.jankowski@ser-solutions.pl>
+ * @author Maciej Jankowski
  *
  */
 class ScalaTests {
